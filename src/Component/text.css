@@ -1,0 +1,4 @@
+.hover>li:hover{
+    color:red
+}
+.hover>li{color:black}
